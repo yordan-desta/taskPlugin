@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/task_init" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
