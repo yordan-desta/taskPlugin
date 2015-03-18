@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled source #
 ###################
 *.com
@@ -149,4 +150,5 @@ docs/_build/
 # PyBuilder
 target/
 
+>>>>>>> 889ef89d980268034ecdfc5cd88796e2cbffd389
 
