@@ -53,7 +53,7 @@ class task_selectDialog(QtGui.QDialog,FORM_CLASS_taskSelect):
         super(task_selectDialog,self).__init__(parent)
         self.setupUi(self)
 
-class task_finishDialog(QtGui.QDialog,FORM_CLASS_taskFinish):
+class task_finishDialog(QtGui.QDialog,FORM_CLASS_taskSelect):
     def __init__(self,parent=None):
         super(task_finishDialog,self).__init__(parent)
         self.setupUi(self)

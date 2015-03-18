@@ -190,4 +190,4 @@ class task_init:
         self.task_select_dlg.show()
         result=self.task_select_dlg.exec_()
     def run_task_finish(self):
-        self.task_finish_dlg.show()
+        self.task_select_dlg.show()
